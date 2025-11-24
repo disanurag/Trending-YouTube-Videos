@@ -20,7 +20,7 @@ Analyze YouTube trending videos dataset to explore video performance, audience e
 
 ---
 
-## 🔑 Process
+##  Process
 1. **Data Cleaning**
    - Extracted `published_date` and `published_time`  
    - Handled missing values (likes, dislikes, comments → 0)  
@@ -46,7 +46,7 @@ Analyze YouTube trending videos dataset to explore video performance, audience e
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Engagement rate is a stronger metric than views alone  
 - Short vs Long videos show very different audience patterns  
 - Peak upload hours highlight creator activity trends  
@@ -54,23 +54,23 @@ Analyze YouTube trending videos dataset to explore video performance, audience e
 
 ---
 
-## 🚀 Business Impact
+##  Business Impact
 - Helps **creators** identify the best category, video length, and upload timing  
 - Enables **platforms** to optimize recommendations and content strategies  
 
 ---
 
-## 💡 Learnings
+##  Learnings
 - Data preprocessing is as important as analysis  
 - Window functions (`RANK`, `DENSE_RANK`) are powerful for category-wise insights  
 - SQL alone can uncover deep business-level patterns from raw data  
 
 ---
 
-## 📜 Queries Used
+##  Queries Used
 All SQL queries including data cleaning, analysis, and advanced insights are available in the project files.  
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 This project demonstrates how SQL can transform raw YouTube data into **actionable insights** for decision-making in digital content strategy.
