@@ -1,11 +1,11 @@
-# 📊 Trending YouTube Videos (SQL Project)
+#  Trending YouTube Videos (SQL Project)
 
-## 🎯 Objective
+##  Objective
 Analyze YouTube trending videos dataset to explore video performance, audience engagement, and content trends using SQL.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - Provided by **Cuvette** (as part of Data Science Pay After Placement Program)  
 - Contains:
   - Video metadata (title, description, channel, category, duration, resolution)
@@ -14,7 +14,7 @@ Analyze YouTube trending videos dataset to explore video performance, audience e
 
 ---
 
-## 🛠️ Tools & Skills Used
+##  Tools & Skills Used
 - **PostgreSQL**  
 - SQL concepts: `Data Cleaning`, `Date/Time Functions`, `Aggregations`, `CASE`, `Window Functions (RANK)`, `Joins`
 
